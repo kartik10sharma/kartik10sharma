@@ -5,6 +5,14 @@ I love solving complex problems with innovative solutions and continuously learn
 On my GitHub, you'll find a variety of projects ranging from web development to cutting-edge machine learning implementations. 
 Feel free to explore my repositories and connect with me for any collaborations or discussions!
 
+![](https://komarev.com/ghpvc/?username=kartik10sharma)
+
+
+
+## Statistics:
+
+![Kartik's github stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&count_private=true)
+
 ## Languages and Tools:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -17,10 +25,6 @@ Feel free to explore my repositories and connect with me for any collaborations 
 ![Git](https://skillicons.dev/icons?i=git)
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
-
-## Statistics:
-
-![Kartik's github stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&count_private=true)
 
 
 ## Connect with me:

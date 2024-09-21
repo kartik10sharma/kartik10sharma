@@ -18,6 +18,10 @@ Feel free to explore my repositories and connect with me for any collaborations 
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 
+<hr>
+
+![Kartik's github stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&count_private=true)
+
 
 ## Connect with me:
 

@@ -13,7 +13,7 @@ Feel free to explore my repositories and connect with me for any collaborations 
 
 ![Kartik's github stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&count_private=true)
 
-## Languages and Tools:
+## Languages & Frameworks:
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -21,10 +21,14 @@ Feel free to explore my repositories and connect with me for any collaborations 
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![Python](https://skillicons.dev/icons?i=python)
 
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![Unreal](https://skillicons.dev/icons?i=unreal)
+![Unity](https://skillicons.dev/icons?i=unity)
 ![Git](https://skillicons.dev/icons?i=git)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
 
 
 ## Connect with me:

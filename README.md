@@ -9,7 +9,7 @@ Feel free to explore my repositories and connect with me for any collaborations 
 
 
 
-## Statistics
+## Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=kartik10sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartik10sharma&theme=dark&hide_border=false)<br/>
@@ -39,5 +39,5 @@ Feel free to explore my repositories and connect with me for any collaborations 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Kartik_10Sharma)
 
 
-##  Random Dev Quote
+##  Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

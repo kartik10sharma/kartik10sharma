@@ -9,9 +9,11 @@ Feel free to explore my repositories and connect with me for any collaborations 
 
 
 
-## Statistics:
+## Statistics
 
-![Kartik's github stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=kartik10sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartik10sharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik10sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Languages & Frameworks:
 
@@ -35,3 +37,7 @@ Feel free to explore my repositories and connect with me for any collaborations 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kartik-10sharma/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Kartik_10Sharma)
+
+
+##  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

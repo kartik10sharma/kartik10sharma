@@ -22,6 +22,7 @@ Feel free to explore my repositories and connect with me for any collaborations 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
 
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)

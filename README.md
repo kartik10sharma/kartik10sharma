@@ -37,7 +37,7 @@ Feel free to explore my repositories and connect with me for any collaborations 
 ## Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kartik-10sharma/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Kartiks66766139)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/KS_10Sharma)
 
 
 ##  Random Dev Quote:

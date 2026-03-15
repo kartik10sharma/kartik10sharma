@@ -105,16 +105,6 @@ print(me.current_status())
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kartik10sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -128,68 +118,28 @@ print(me.current_status())
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kartik10sharma/kartik10sharma/output/github-snake.svg">
+  </picture>
 </div>
 
-> **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: kartik10sharma
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
----
-
-## 🎯 2025 Goals
-
-| Goal | Status |
-|------|--------|
-| 🤖 Fine-tune a custom LLM | 🔄 In Progress |
-| 📦 Deploy 3 end-to-end ML projects | 🔄 In Progress |
-| 📄 Publish a technical blog / paper | 📝 Planning |
-| 🏢 Land a GCC / top-tier AI/ML role | 🎯 Target |
-| 🧩 Solve 300+ LeetCode problems | 🔄 In Progress |
-| ⭐ Hit 500 GitHub stars across repos | 📊 Tracking |
-
----
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=YOUR_ML_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=YOUR_ML_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=minor_prj&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=Resume_classifier&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
 
 </div>
 
-> 💡 Replace `YOUR_ML_REPO_1` and `YOUR_ML_REPO_2` with your actual best repository names.
 
 ---
 
-## 💬 Dev Quote
+## 💬 Daily Dev Quote
 
 <div align="center">
 

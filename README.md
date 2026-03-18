@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kartik%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Full-Stack+%2B+ML+Pipeline+Engineer;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+Collabs+%26+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Full-Stack+%2B+ML+Engineer;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+Collabs+%26+Opportunities!)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-10sharma/">

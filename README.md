@@ -55,43 +55,65 @@ print(me.current_status())
 
 ## 🚀 What I'm Working On
 
-- 🤖 **LLM Fine-tuning** — Experimenting with LoRA & QLoRA on open-source models  
-- 👁️ **Computer Vision** — Object detection & image segmentation pipelines  
-- 🔁 **MLOps** — Building CI/CD pipelines for ML model deployment  
-- 🌐 **AI-powered Web Apps** — Integrating ML backends with React frontends  
-- 📖 **Daily Reading** — ArXiv papers on Transformers, GenAI & RL
+| 🔬 Project Area | Status | Description |
+|---|---|---|
+| 🤖 LLM Fine-tuning | 🟢 Active | LoRA & QLoRA experiments on open-source models |
+| 👁️ Computer Vision | 🟢 Active | Object detection & image segmentation pipelines |
+| 🔁 MLOps | 🟡 Building | CI/CD pipelines for ML model deployment |
+| 🌐 AI-powered Web Apps | 🟢 Active | ML backends integrated with React frontends |
+| 📖 Research | 🟢 Daily | ArXiv papers on Transformers, GenAI & RL |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### 🤖 AI / ML / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,go,java,html,css" />
-</p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Go](https://skillicons.dev/icons?i=go)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ### 🎮 Game Development
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal,unity" />
-</p>
+![Unreal](https://skillicons.dev/icons?i=unreal)
+![Unity](https://skillicons.dev/icons?i=unity)
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| 🏆 Project | 🛠️ Tech | 📄 Description |
+|---|---|---|
+| [**SIH2024**](https://github.com/kartik10sharma/SIH2024) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Smart India Hackathon 2024 — AI-powered solution |
+| [**Resume\_classifier**](https://github.com/kartik10sharma/Resume_classifier) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ML-based resume classification system |
+| [**cv\_prj**](https://github.com/kartik10sharma/cv_prj) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Computer Vision project — detection & segmentation |
+| [**minor\_prj**](https://github.com/kartik10sharma/minor_prj) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Minor project — AI/ML web integration |
+
+</div>
 
 ---
 
@@ -99,10 +121,11 @@ print(me.current_status())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartik10sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik10sharma&theme=tokyonight&hide_border=true" />
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik10sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik10sharma&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik10sharma&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik10sharma&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -110,11 +133,7 @@ print(me.current_status())
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartik10sharma&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartik10sharma&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -128,25 +147,24 @@ print(me.current_status())
   </picture>
 </div>
 
+---
 
+## 💡 Programming Focus
 
-## 📌 Featured Projects
+> I'm actively preparing for top-tier software engineering roles.
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=minor_prj&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartik10sharma&repo=Resume_classifier&theme=tokyonight&hide_border=true)](https://github.com/kartik10sharma)
-
-</div>
-
+- 📐 **DSA** — Arrays, Trees, Graphs, DP, Greedy, Segment Trees
+- 🏗️ **System Design** — Scalable distributed systems, ML infrastructure
+- 🤖 **ML Theory** — Probability, Linear Algebra, Optimization, Statistics
+- 🧩 **CS Fundamentals** — OS, DBMS, Computer Networks, OOP
 
 ---
 
-## 💬 Daily Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -154,7 +172,7 @@ print(me.current_status())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/kartik10sharma)
 
 **⭐ Star my repos if you find them useful — it means a lot!**
 
